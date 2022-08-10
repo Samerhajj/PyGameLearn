@@ -1,2 +1,6 @@
 # PyGameLearn
-This Repository is for learning Pygame and its basics
+First Game where i followed a guide/documentation
+Used opengamerart for some sprites
+dafont for font
+
+Just learning basics of pygame
